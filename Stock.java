@@ -30,7 +30,7 @@ public class Stock
      * Name: getPercChange
      * Visibility: private
      * @param none
-     * @return the percent change from prevPrice to currentPrice
+     * @return the percent change from prevPrice to currentPrice (as a decimal)
      */
      // add your implementation here...
 
