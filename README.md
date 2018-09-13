@@ -4,7 +4,7 @@ For this assignment you will creating a class and a runner to simulate prices ch
 
 Fill in the missing constructor and methods in `Stock.java` found on Github. Then create a `Runner.java` to get the desired output below.
 
-Pay attention to the sample outputs below.
+Pay attention to the sample outputs below (but yours will be different because the percent change is generated randomly)..
 
 ### Sample Outputs
 
